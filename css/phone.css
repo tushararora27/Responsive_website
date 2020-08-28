@@ -3,9 +3,9 @@
     flex-direction: column;
 }
 #navbar ul li a{
-    padding: 0px 7px;
-    font-size: .8rem;
-    padding-bottom: 8px;
+    padding: 0px 2px;
+    font-size: .6rem;
+    padding bottom: 8px;
 }
 
 
